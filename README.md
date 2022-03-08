@@ -24,4 +24,13 @@ $ javac Main.java
 
 # run java
 $ java Main
+
+## move to other work
+$ cd csit121
+
+# compile java
+$ javac Main.java
+
+# run java
+$ java Main
 ```
